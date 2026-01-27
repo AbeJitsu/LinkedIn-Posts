@@ -1,4 +1,4 @@
-## Post - January 27, 2026 (TO POST)
+## LinkedIn Post - January 27, 2026 (TO POST)
 
 The creator of Claude Code said something that stopped me mid-scroll:
 
@@ -31,6 +31,30 @@ How are you thinking about AI changing where and how you work?
 🔗[needthisdone.com](http://needthisdone.com)
 
 **Image Prompt:** A futuristic illustration showing a developer managing multiple glowing AI assistants from different locations. The scene is split into three connected panels: one showing a phone screen with code, one showing a laptop in a coffee shop, and one showing a desktop terminal at home - all connected by flowing streams of light/data. Deep blue and cyan with orange accents. Clean, modern tech illustration with neon glow effects. Text overlay "needthisdone.com" in white in the bottom right corner.
+
+---
+
+## Facebook Post - January 27, 2026 (TO POST)
+
+My job has completely changed in the last year.
+
+I used to spend hours typing code line by line. Now I spend most of my time explaining what I want built, reviewing what comes back, and steering the direction.
+
+It's like I went from being the person with the hammer to being the person who designs the house.
+
+I still need to know how everything works - you can't direct something you don't understand. But instead of doing one thing at a time, I can have multiple projects moving forward at once.
+
+Yesterday I started an idea on my phone during my lunch break. Picked it back up on my laptop that night. Something that would've taken me a full weekend last year took a few hours spread across the day.
+
+This is what AI actually looks like for most people who use it for real work. Not robots taking jobs. Just regular people getting more done with the same amount of time.
+
+Still feels a little surreal honestly.
+
+Has AI changed how you work yet? Or are you still on the fence about it?
+
+🔗 needthisdone.com
+
+**Image Prompt:** A split illustration showing the evolution of work - on the left, a person hunched over a keyboard typing intensely; on the right, the same person relaxed, gesturing while multiple floating screens show work happening automatically. Warm, friendly colors (soft oranges, blues). Modern, approachable illustration style. Text overlay "needthisdone.com" in white in the bottom right corner.
 
 ---
 
