@@ -1,4 +1,38 @@
-## LinkedIn Post - January 27, 2026 (TO POST)
+## LinkedIn Post - January 28, 2026 (POSTED)
+
+Jensen Huang said something at Davos that I keep replaying:
+
+"Claude is incredible. Anthropic made a huge leap. Nvidia uses it all over the company."
+
+I'll be honest. I felt validated hearing that.
+
+Not because I needed a billionaire's permission. But because for months I've been telling people "this thing is different" and getting polite nods in return.
+
+Now the CEO of the world's most valuable company is saying the same thing on a stage in Switzerland.
+
+Here's the part that gets me:
+
+A year ago, I was skeptical too. I tried the early AI tools and thought "cool trick, but I still have to fix everything it writes."
+
+Then something shifted. The conversations got sharper. The code got cleaner. I started trusting it with real work; not just busywork.
+
+Now I build things in hours that used to take me days. And apparently, so does Nvidia.
+
+That's not hype. That's just... what's happening.
+
+If you're still on the fence about AI tools, I get it. I was too.
+
+But the window for "wait and see" is closing faster than I expected.
+
+What finally convinced you to try AI in your workflow? Or what's still holding you back?
+
+🔗 needthisdone.com
+
+**Image Prompt:** A developer in his 40's with salt and pepper hair at a desk having an "aha moment," with a subtle glow from their screen reflecting on their face. Split composition: one side shows skepticism (arms crossed, furrowed brow), the other shows engagement (leaning in, curious). Warm, realistic lighting with soft blues from the monitor. Modern, relatable illustration style. Text overlay "needthisdone.com" in white in the top center.
+
+---
+
+## LinkedIn Post - January 27, 2026 (POSTED)
 
 The creator of Claude Code said something that stopped me mid-scroll:
 
